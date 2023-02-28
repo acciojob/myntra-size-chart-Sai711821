@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table{
+	min-width:600px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-radius:10px;
+	overflow:hidden;
+
+}
+table thead th{
+	background-color:red;
+	
+}
+table thead th, table td{
+	border:1px solid black;
+	
